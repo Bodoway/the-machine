@@ -2,5 +2,18 @@ h1 {
     text-align: center;
     text-decoration: underline;
     color: limegreen;
-    
+
+}
+
+h2 {
+text-align: center;
+text-decoration: underline;
+color: limegreen;
+border: blue solid 3px;
+border-radius: 100%;
+
+}
+
+body {
+    background-color: black;
 }
